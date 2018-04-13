@@ -1,5 +1,6 @@
 """
 Climate analysis tools and ting
+
 """
 
 import sys
@@ -29,3 +30,6 @@ for line in climate_data:
             kelvin = temp_conversion.fahr_to_kelvin(fahr)
 
             print(str(celsius)+", "+str(kelvin))
+""" 
+useless rubbish at the end
+"""
