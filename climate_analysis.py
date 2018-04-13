@@ -1,3 +1,7 @@
+"""
+Climate analysis tools and ting
+"""
+
 import sys
 import temp_conversion
 import signal
